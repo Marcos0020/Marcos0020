@@ -14,6 +14,7 @@ Profissional com mais de 3 anos de experiência em administração, sustentaçã
 | **Objetos & Lógica de Banco** | Triggers Complexas, Stored Procedures, Functions Autônomas, Views, Constraints |
 | **Operação & Administração (DBA)** | Oracle Data Pump (`expdp`/`impdp`), Tablespaces, Users & Roles, Otimização de Consultas, TNS, Listener e Firewall |
 | **Desenvolvimento de Software** | Python (Tkinter, cx_Oracle, openpyxl, pandas), TypeScript, Node.js (NestJS), React, REST APIs, JWT |
+| **Inteligência Artificial & DevSecOps** | Engenharia de Prompts, Agentes Autônomos (Claude/LLMs), SAST, SCA, Hardening, OWASP Top 10 |
 | **Infraestrutura, DevOps & Suporte** | Docker, Linux (Oracle Linux, Ubuntu), VirtualBox, Git & GitHub, Service Desk (ITIL) |
 | **Ferramentas de Engenharia** | PL/SQL Developer, DBeaver, Postman, VS Code, Git CLI |
 
@@ -37,6 +38,11 @@ Profissional com mais de 3 anos de experiência em administração, sustentaçã
 * Aplicações com interface gráfica desenvolvidas para eliminar trabalho operacional manual em equipes técnicas:
   * **AutoCadastro:** Pipeline ETL que lê, valida, padroniza e mapeia grandes volumes de planilhas de clientes em templates corporativos, com persistência de regras "De-Para" em JSON e processamento em multithreading.
   * **Relatório Gerencial:** Dashboard desktop conectado diretamente ao Oracle Database para filtragem dinâmica de registros, extração sob demanda e geração de relatórios formatados em Excel.
+
+### 🛡️ [AgentCS-cybersecurity — Agente Autônomo de Segurança](https://github.com/Marcos0020/AgentCS-cybersecurity)
+> **Stack:** Inteligência Artificial • Engenharia de Prompts • SAST • SCA • OWASP Top 10 • DevSecOps • Claude / Antigravity
+* Agente autônomo profissional projetado para conduzir auditorias de segurança ofensiva e defensiva, cobrindo análise estática de código, auditoria de dependências, detecção de segredos expostos, segurança de APIs e hardening de infraestrutura.
+* **Destaques de Engenharia:** Arquitetura modular com 8 skills especializadas e regras estritas de governança (*Human-in-the-Loop*), blindagem ativa multicamadas contra *Prompt Injection* (tratamento de arquivos auditados como dados não-confiáveis), relatório técnico automatizado em dois níveis (Júnior didático e Sênior executivo) e protocolo de 6 passos para alterações de código estritamente autorizadas.
 
 ---
 
